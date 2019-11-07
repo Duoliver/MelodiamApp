@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/perfil_nav"
+        android:icon="@drawable/ic_perfil"
+        android:title="Perfil" />
+    <item
+        android:id="@+id/listas_nav"
+        android:icon="@drawable/ic_listas"
+        android:title="Listas" />
+    <item
+        android:id="@+id/buscar_nav"
+        android:icon="@drawable/ic_buscar"
+        android:title="Buscar" />
+    <item
+        android:id="@+id/amigos_nav"
+        android:icon="@drawable/ic_amigos"
+        android:title="Amigos" />
+</menu>
